@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+canvas {
+    /*background: url('../img/banner.JPG');*/
+    background-size: cover;
+    opacity: 1;
+    background-color: #000000;
+}
+
+#canvas-wrapper {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
